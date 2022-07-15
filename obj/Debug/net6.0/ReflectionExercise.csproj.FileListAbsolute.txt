@@ -1,0 +1,15 @@
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.exe
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.deps.json
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.runtimeconfig.json
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.dll
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\net6.0\ReflectionExercise.pdb
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.csproj.AssemblyReference.cache
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.AssemblyInfoInputs.cache
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.AssemblyInfo.cs
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.csproj.CoreCompileInputs.cache
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.dll
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\refint\ReflectionExercise.dll
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.pdb
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ReflectionExercise.genruntimeconfig.cache
+C:\Users\jlemo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\net6.0\ref\ReflectionExercise.dll
